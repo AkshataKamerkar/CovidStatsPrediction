@@ -55,5 +55,10 @@ https://youtu.be/ZZsyxIWdCko?si=rfT1Rz4p3e8LNKlu
 
 ## Screenshots 
 
+
+Website 
 ![App Screenshot](ScreenShots/WebPage1.png)
 
+
+Dashboard 
+![App Screenshot](ScreenShots/DashBoard.png)
